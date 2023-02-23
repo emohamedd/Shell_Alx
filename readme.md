@@ -1,6 +1,8 @@
 ## GO TO THE SHELL_ALX.TXT FILE AND FOLLOW THE INSTRUCTION 
 
-## ALX PROGRAM
+## ALX PROGRAM!
+<img width="571" alt="Screen Shot 2023-02-23 at 6 38 33 PM" src="https://user-images.githubusercontent.com/102475281/220990147-4cb6e18c-f4d4-4223-a46f-26df0376fd7a.png">
+
 The alx program is a training and career development program designed to help individuals acquire the skills and knowledge necessary to succeed in the tech industry. The program is offered by ALX, a company focused on providing innovative solutions to Africa's technological challenges.
 
 The alx program offers a range of courses in various areas, including software development, data science, and digital marketing, among others. The program is structured in a way that allows individuals to learn at their own pace and in their own time, making it ideal for working professionals and students.
