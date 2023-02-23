@@ -1,0 +1,46 @@
+********************HELLO WORLD !********************
+## TASKS :
+
+----------0. Create me!:----------
+
+Change your working directory to /root : ->  "cd /root"
+Then, create an empty file so_cool : -> "touch so_cool"
+
+----------1. More of me:----------
+
+Change your working directory to /root : -> "cd /root" 
+Then, copy the file school to /tmp :-> "cp school /tmp"
+
+----------2. To old:----------
+
+Change your working directory to /root : -> "cd /root"
+Then, rename the file old_school to new_school (in the same directory) :-> "mv old_school new_school" 
+
+----------3. Not here:----------
+
+Change your working directory to /root : -> "cd /root"
+Then, move the file not_here to /tmp/right_school :-> mv not_here /tmp/right_school;
+
+----------4. Not anymore:----------
+
+Change your working directory to /root : -> "cd /root"
+Then, delete the file ready_to_be_removed :-> "rm ready_to_be_removed"
+
+----------5. Organization is key!:----------
+
+Change your working directory to /root : -> "cd /root"
+Then, create a directory school_is_amazing :-> "mkdir school_is_amazing"
+
+----------6. No need:----------
+
+Change your working directory to /root : -> "cd /root"
+Then, remove the directory empty_directory :-> "rm -r empty_directory"
+
+## PS : 
+
+*- U should change the working directory just once (cd /root),
+*- if u have any question contact me on : IG : @emoh4med || DISCORD : Emohamed#4471
+
+
+
+
